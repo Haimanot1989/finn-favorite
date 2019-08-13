@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kun favoritter</string>
+    <string name="favorite_toggle">only favorites</string>
+    <string name="error_message">Failed to get Remote JSON, please try again</string>
+</resources>
